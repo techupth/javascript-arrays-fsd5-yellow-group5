@@ -20,5 +20,5 @@ const employees = [
     hobbies: ["Computer games", "Wakeboard"],
   },
 ];
-
 // Start coding here
+employees.pop();
